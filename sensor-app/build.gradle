@@ -1,0 +1,4 @@
+dependencies {
+    compile project (':core')
+    implementation 'org.projectlombok:lombok:1.18.18'
+}

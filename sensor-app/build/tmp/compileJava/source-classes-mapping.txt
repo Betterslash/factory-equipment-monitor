@@ -1,0 +1,8 @@
+ro/ubb/tcp/TcpClient.java
+ ro.ubb.tcp.TcpClient
+ro/ubb/SensorApp.java
+ ro.ubb.SensorApp
+ro/ubb/service/SensorServiceImpl.java
+ ro.ubb.service.SensorServiceImpl
+ro/ubb/ui/Console.java
+ ro.ubb.ui.Console
